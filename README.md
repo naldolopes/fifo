@@ -1,1 +1,1 @@
-# Simple FiFO Implementation in C.
+# Simple FIFO Implementation in C.
