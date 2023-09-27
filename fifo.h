@@ -1,7 +1,7 @@
 #ifndef __FIFO_H__
 #define __FIFO_H__
 
-#define FIFO_SIZE 1024
+#define FIFO_SIZE 100
 #define FIFO_FAIL 0
 #define FIFO_SUCCESS 1
 
